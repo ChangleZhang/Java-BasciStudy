@@ -15,13 +15,7 @@ public class getKthInTwoSortedArray {
         System.out.println(getKth(arr3, arr4,6));
     }
 
-    /**
-     * 找到两个排序数组中第k小的数
-     * @param arr1 排序数组1
-     * @param arr2 排序数组2
-     * @param k 指标k
-     * @return 排序数组中第k小的数字
-     */
+
     private static int getKth(int[] arr1, int[] arr2, int k) {
         if (null == arr1 || arr1.length == 0) {
             return arr2[k];

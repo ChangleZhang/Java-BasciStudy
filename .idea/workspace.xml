@@ -1,7 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79319fd3-b92f-487b-8db0-d168a3fb5d94" name="Default" comment="" />
+    <list default="true" id="79319fd3-b92f-487b-8db0-d168a3fb5d94" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/swordoffer/stackandqueue/maxInWindows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GetIpCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_Design_Model_Bridge/Bridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_Design_Model_Bridge/Bridge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OnlyGetIpMultifile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/getTotalCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ip_interval.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/base/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeaa/base/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/base/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeaa/base/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode/base/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode/base/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode/leetcode109.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeaa/leetcode109.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode/leetcode11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeaa/leetcode11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode/leetcode125.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeaa/leetcode125.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode/leetcode209.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeaa/leetcode209.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode/leetcode215.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeaa/leetcode215.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode/leetcode3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeaa/leetcode3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode/leetcode345.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeaa/leetcode345.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode/leetcode438.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeaa/leetcode438.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode/leetcode76.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeaa/leetcode76.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode109.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode125.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode209.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode215.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode345.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode438.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode76.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main_fun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/only_get_ip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/search/getKthInTwoSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/search/getKthInTwoSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/search/getUpMid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/search/getUpMid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/search/search/getKthInTwoSortedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/search/search/getUpMid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sort/sort/variousSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/knowledge/migrate/FindContinuousSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swordoffer/knowledge/migrate/FindContinuousSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/knowledge/migrate/FindNumbersWithSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swordoffer/knowledge/migrate/FindNumbersWithSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/knowledge/migrate/FindNumsAppearOnce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swordoffer/knowledge/migrate/FindNumsAppearOnce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/knowledge/migrate/GetNumberOfK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swordoffer/knowledge/migrate/GetNumberOfK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/knowledge/migrate/IsBalanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swordoffer/knowledge/migrate/IsBalanced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/knowledge/migrate/TreeDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swordoffer/knowledge/migrate/TreeDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/swordoffer/base/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/swordoffer/knowledge/migrate/FindContinuousSequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/swordoffer/knowledge/migrate/FindNumbersWithSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/swordoffer/knowledge/migrate/FindNumsAppearOnce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/swordoffer/knowledge/migrate/GetNumberOfK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/swordoffer/knowledge/migrate/IsBalanced.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/swordoffer/knowledge/migrate/LeftRotateString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/swordoffer/knowledge/migrate/ReverseSentence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/swordoffer/knowledge/migrate/TreeDepth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/swordoffer/stackandqueue/maxInWindows.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/swordoffer/time/effect/GetLeastNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/swordoffer/time/effect/GreatestSumOfSubArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/swordoffer/time/effect/MoreThanHalfNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/swordoffer/time/effect/NumberOf1Between1AndN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/swordoffer/time/effect/PrintMinNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/swordoffer/time/space/balance/FindFirstCommonNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/swordoffer/time/space/balance/FirstNotRepeatingChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/swordoffer/time/space/balance/GetUglyNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/swordoffer/time/space/balance/InversePairs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/time/effect/GetLeastNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swordoffer/time/effect/GetLeastNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/time/effect/GreatestSumOfSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swordoffer/time/effect/GreatestSumOfSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/time/effect/MoreThanHalfNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swordoffer/time/effect/MoreThanHalfNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/time/effect/NumberOf1Between1AndN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swordoffer/time/effect/NumberOf1Between1AndN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/time/effect/PrintMinNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swordoffer/time/effect/PrintMinNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/time/space/balance/FindFirstCommonNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swordoffer/time/space/balance/FindFirstCommonNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/time/space/balance/FirstNotRepeatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swordoffer/time/space/balance/FirstNotRepeatingChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/time/space/balance/GetUglyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swordoffer/time/space/balance/GetUglyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordoffer/time/space/balance/InversePairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swordoffer/time/space/balance/InversePairs.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,20 +82,89 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Sorting_Problems/BubbleSort.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="maxInWindows.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/swordoffer/stackandqueue/maxInWindows.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            <state relative-caret-position="200">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SouceSub2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JAVA_Design_Model_Interface_Adapter/SouceSub2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ngetouzi.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/swordoffer/buildmodel/ngetouzi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+              <folding>
+                <element signature="e#99#100#0" expanded="true" />
+                <element signature="e#122#123#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sourceable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JAVA_Design_Model_Interface_Adapter/Sourceable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/swordoffer/swordoffer/stackandqueue/maxInWindows.java" />
+        <option value="$PROJECT_DIR$/src/JAVA_Design_Model_Bridge/Bridge.java" />
+        <option value="$PROJECT_DIR$/src/only_get_ip.java" />
+        <option value="$PROJECT_DIR$/src/swordoffer/knowledge/migrate/FindNumbersWithSum.java" />
+        <option value="$PROJECT_DIR$/src/swordoffer/time/effect/GreatestSumOfSubArray.java" />
+        <option value="$PROJECT_DIR$/src/swordoffer/knowledge/migrate/GetNumberOfK.java" />
+        <option value="$PROJECT_DIR$/src/search/getUpMid.java" />
+        <option value="$PROJECT_DIR$/src/swordoffer/knowledge/migrate/IsBalanced.java" />
+        <option value="$PROJECT_DIR$/src/swordoffer/time/space/balance/GetUglyNumber.java" />
+        <option value="$PROJECT_DIR$/src/swordoffer/time/space/balance/FindFirstCommonNode.java" />
+        <option value="$PROJECT_DIR$/src/swordoffer/time/effect/PrintMinNumber.java" />
+        <option value="$PROJECT_DIR$/src/swordoffer/time/effect/GetLeastNumbers.java" />
+        <option value="$PROJECT_DIR$/src/swordoffer/knowledge/migrate/TreeDepth.java" />
+        <option value="$PROJECT_DIR$/src/swordoffer/time/effect/NumberOf1Between1AndN.java" />
+        <option value="$PROJECT_DIR$/src/swordoffer/time/effect/MoreThanHalfNum.java" />
+        <option value="$PROJECT_DIR$/src/swordoffer/time/space/balance/InversePairs.java" />
+        <option value="$PROJECT_DIR$/src/swordoffer/time/space/balance/FirstNotRepeatingChar.java" />
+        <option value="$PROJECT_DIR$/src/search/getKthInTwoSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/swordoffer/stackandqueue/maxInWindows.java" />
+        <option value="$PROJECT_DIR$/src/swordoffer/buildmodel/ngetouzi.java" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -41,12 +181,17 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -63,14 +208,65 @@
               <item name="Java-BasicStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-BasicStudy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-BasicStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-BasicStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-BasicStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-BasicStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Sorting_Problems" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-BasicStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-BasicStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-BasicStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-BasicStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-BasicStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-BasicStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
+              <item name="buildmodel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-BasicStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-BasicStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
+              <item name="migrate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-BasicStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-BasicStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
+              <item name="stackandqueue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-BasicStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-BasicStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
+              <item name="time" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -93,9 +289,64 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ngetouzi">
+    <configuration name="FirstNotRepeatingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swordoffer.time.space.balance.FirstNotRepeatingChar" />
+      <module name="Java-BasicStudy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swordoffer.time.space.balance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="InversePairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swordoffer.time.space.balance.InversePairs" />
+      <module name="Java-BasicStudy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swordoffer.time.space.balance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="getKthInTwoSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search.getKthInTwoSortedArray" />
+      <module name="Java-BasicStudy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="maxInWindows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swordoffer.stackandqueue.maxInWindows" />
+      <module name="Java-BasicStudy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swordoffer.stackandqueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ngetouzi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swordoffer.buildmodel.ngetouzi" />
+      <module name="Java-BasicStudy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swordoffer.buildmodel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -135,6 +386,22 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.InversePairs" />
+      <item itemvalue="Application.FirstNotRepeatingChar" />
+      <item itemvalue="Application.getKthInTwoSortedArray" />
+      <item itemvalue="Application.maxInWindows" />
+      <item itemvalue="Application.ngetouzi" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ngetouzi" />
+        <item itemvalue="Application.maxInWindows" />
+        <item itemvalue="Application.getKthInTwoSortedArray" />
+        <item itemvalue="Application.FirstNotRepeatingChar" />
+        <item itemvalue="Application.InversePairs" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -147,43 +414,45 @@
       <option name="presentableId" value="Default" />
       <updated>1554532045946</updated>
       <workItem from="1554532050243" duration="22000" />
+      <workItem from="1554532175474" duration="4762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22000" />
+    <option name="totallyTimeSpent" value="4784000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Messages" weight="0.5531915" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35106382" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,11 +461,215 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Sorting_Problems/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordoffer/swordoffer/time/space/balance/FirstNotRepeatingChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ip_interval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main_fun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/only_get_ip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordoffer/knowledge/migrate/FindNumbersWithSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeaa/leetcode345.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVA_Design_Model_Bridge/Bridge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sorting_Problems/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordoffer/time/effect/GreatestSumOfSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordoffer/knowledge/migrate/GetNumberOfK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordoffer/time/space/balance/FindFirstCommonNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordoffer/time/effect/PrintMinNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/search/getKthInTwoSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordoffer/time/space/balance/FirstNotRepeatingChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordoffer/time/space/balance/InversePairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordoffer/time/effect/MoreThanHalfNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordoffer/time/space/balance/GetUglyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordoffer/knowledge/migrate/IsBalanced.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordoffer/knowledge/migrate/TreeDepth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/search/getUpMid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordoffer/time/effect/GetLeastNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordoffer/time/effect/NumberOf1Between1AndN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordoffer/stackandqueue/maxInWindows.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVA_Design_Model_Interface_Adapter/Sourceable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVA_Design_Model_Interface_Adapter/SouceSub2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordoffer/buildmodel/ngetouzi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding>
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

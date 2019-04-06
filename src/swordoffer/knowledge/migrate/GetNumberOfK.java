@@ -1,9 +1,7 @@
 package swordoffer.knowledge.migrate;
 
 public class GetNumberOfK {
-    /**
-     * 统计一个数字在排序数组中出现的次数。
-     */
+
     public static void main(String[] args) {
         int[] test0 = new int[]{1,2,3,3,3,3,3,3,6,7};
         System.out.println(GetNumberOfK(test0,3));

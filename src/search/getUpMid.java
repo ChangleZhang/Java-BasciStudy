@@ -7,12 +7,7 @@ public class getUpMid {
         System.out.print(getUpMidValue(arr1, arr2));
     }
 
-    /**
-     * 获取两个长度相等的数组的上中位数，即中位数计算过程中较小的那个中位数
-     * @param arr1 数组1
-     * @param arr2 数组2（长度与数组1相同）
-     * @return 两个数组的上中位数
-     */
+
     public static int getUpMidValue (int[] arr1, int[] arr2) {
         int left1 = 0;
         int right1 = arr1.length - 1;

@@ -3,9 +3,7 @@ package swordoffer.time.space.balance;
 import leetcode.base.ListNode;
 
 public class FindFirstCommonNode {
-    /**
-     * 输入两个链表，找出它们的第一个公共结点。
-     */
+
     public ListNode FindFirstCommonNode(ListNode pHead1, ListNode pHead2) {
         if (null == pHead1 || null == pHead2)
             return null;
