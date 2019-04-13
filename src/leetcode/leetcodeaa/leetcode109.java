@@ -1,6 +1,6 @@
-package leetcode;
+package leetcode.leetcodeaa;
 
-import leetcode.base.ListNode;
+import leetcode.leetcodeaa.base.ListNode;
 import leetcode.base.TreeNode;
 
 public class leetcode109 {

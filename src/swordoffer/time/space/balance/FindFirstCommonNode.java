@@ -1,6 +1,6 @@
 package swordoffer.time.space.balance;
 
-import leetcode.base.ListNode;
+import leetcode.leetcodeaa.base.ListNode;
 
 public class FindFirstCommonNode {
 
